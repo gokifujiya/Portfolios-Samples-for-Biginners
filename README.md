@@ -1,2 +1,2 @@
 # Portfolios-Samples-for-Biginners
-They are portfolios samples for beginners at Recursion.
+This is a portfolio sample for beginners in Recursion. 
